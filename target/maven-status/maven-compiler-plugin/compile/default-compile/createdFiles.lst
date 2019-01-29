@@ -1,9 +1,0 @@
-com/meeting/model/Task.class
-com/meeting/model/User.class
-com/meeting/SwaggerConfig.class
-com/meeting/repository/UserRepository.class
-com/meeting/controller/UserController.class
-com/meeting/repository/MeetingRepository.class
-com/meeting/MeetingApp.class
-com/meeting/controller/MeetingController.class
-com/meeting/model/Meeting.class

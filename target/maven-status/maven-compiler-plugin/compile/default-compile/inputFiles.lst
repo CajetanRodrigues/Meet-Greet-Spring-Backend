@@ -1,9 +1,15 @@
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/MeetingApp.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/SwaggerConfig.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/controller/UserController.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/repository/UserRepository.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/model/User.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/repository/MeetingRepository.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/model/Task.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/controller/MeetingController.java
-/Users/imtiyazhirani/Documents/Spring-class/MyApp/src/main/java/com/meeting/model/Meeting.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\security\SecurityConfig.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\controller\MailController.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\repository\UserRepository.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\repository\EmailOtpRepository.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\repository\TaskRepository.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\model\Task.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\SwaggerConfig.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\controller\TaskController.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\model\EmailOtp.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\controller\UserController.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\MeetingApp.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\model\User.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\repository\MeetingRepository.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\controller\MeetingController.java
+C:\Projects\Spring Boot\meeting-app-rest-code-lect2\meeting-app-rest-code-lect2\MyApp\src\main\java\com\meeting\model\Meeting.java
